@@ -11,7 +11,7 @@ import datetime
 
 
 TOKEN = '7636282193:AAHHIcQdFrM5ZV2_ObyjjjvUwCqr6FFjL2U' #Ваш токен бота
-apiserv = "https://mindglows.onrender.com"  #ссылка вашего сервера
+apiserv = "https://4a3b-89-163-140-175.ngrok-free.app"  #ссылка вашего сервера
 your_channel = "https://t.me/your_channel" #ваш тг канал
 
 

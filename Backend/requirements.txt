@@ -30,8 +30,6 @@ click==8.1.7
 colorama==0.4.6
 comtypes==1.2.0
 contourpy==1.2.1
-CTkMessagebox==2.5
-customtkinter==5.2.2
 cycler==0.12.1
 darkdetect==0.8.0
 decorator==4.4.2
@@ -89,12 +87,6 @@ Jinja2==3.1.2
 joblib==1.4.2
 keras==3.7.0
 keyboard==0.13.5
-Kivy==2.2.1
-kivy-deps.angle==0.3.3
-kivy-deps.glew==0.3.1
-kivy-deps.sdl2==0.6.0
-Kivy-Garden==0.1.5
-kiwisolver==1.4.5
 libclang==18.1.1
 logic-py==0.4.3
 loguru==0.7.2
